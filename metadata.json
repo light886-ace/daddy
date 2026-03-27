@@ -1,0 +1,5 @@
+{
+  "name": "AI Mobile OS",
+  "description": "A mobile-like interface with swipeable home screens, customizable wallpapers and icons, and an integrated AI chat and worldbook.",
+  "requestFramePermissions": ["geolocation"]
+}
