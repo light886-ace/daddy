@@ -3,10 +3,10 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { SettingsProvider } from './context/SettingsContext';
-import { MusicProvider } from './context/MusicContext';
-import { DiaryProvider } from './context/DiaryContext';
-import { MainScreen } from './components/MainScreen';
+import { SettingsProvider } from './SettingsContext';
+import { MusicProvider } from './MusicContext';
+import { DiaryProvider } from './DiaryContext';
+import { MainScreen } from './MainScreen';
 
 export default function App() {
   return (
